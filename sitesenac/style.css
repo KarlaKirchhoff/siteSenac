@@ -1,0 +1,15 @@
+:root{
+    --cor-laranja: #F78B1F;
+    --cor-azul-escuro: #015593;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
